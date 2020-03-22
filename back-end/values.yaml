@@ -9,7 +9,7 @@ namespace:
   createNamespace: true
 # baruamayank92/back-end:68d0d3ae99965283edb53a98e5b7295e8e4ddceb
 image:
-  repository: yogitapatil/back_end:c131393990e128ea73e5f79ca12e01f0500fde23
+  repository: pjain06/webapp-backend:a26c0a4379f0d157a1189a12a1576ec2f6631115
   pullPolicy: IfNotPresent
 imagePullSecrets: []
 nameOverride: ""
